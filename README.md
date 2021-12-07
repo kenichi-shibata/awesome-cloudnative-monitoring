@@ -49,5 +49,5 @@ TEAM!
 Outgrowing prometheus
 ------
 * https://chronosphere.io/platform/outgrowing-prometheus-monitoring/
-* Martin Mao on Observability, focusing on Alerting, Triage, & RCA https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIxNTc0MDQ1MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4NjU4MzQyOQ?sa=X&ved=0CAIQuIEEahgKEwjAworb7fnzAhUAAAAAHQAAAAAQ8gE
-* Rob Skillington on Metrics Collection, Uber’s M3, and OpenMetrics https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIxNTc0MDQ1MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODQ2NDAyMzA3?sa=X&ved=0CAIQuIEEahgKEwjAworb7fnzAhUAAAAAHQAAAAAQ8gE
+* Martin Mao on Observability, focusing on Alerting, Triage, & RCA https://www.infoq.com/podcasts/observability-alerting-triage-rca/
+* Rob Skillington on Metrics Collection, Uber’s M3, and OpenMetrics  https://www.infoq.com/podcasts/metrics-collection/
