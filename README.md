@@ -1,5 +1,16 @@
 # awesome-cloudnative-monitoring
 
+The Why!
+-----
+* Why does cloud native companies need observability https://chronosphere.io/learn/infoq-podcast-why-cloud-native-companies-need-observability/
+
+Principles
+------
+* Rethinking observability by Ben Siegelman https://www.infoq.com/news/2019/02/rethinking-observability/
+* Redefining Observability by Humio https://www.humio.com/whats-new/blog/observability-redefined/
+* Beyond the three pillars https://thenewstack.io/beyond-the-3-pillars-of-observability/
+* The orthodoxy! https://dzone.com/articles/three-pillars-with-zero-answers-a-new-scorecard-for-observability
+
 Presentations
 --------------
 * Kubernetes Monitoring with Prometheus and Grafana Links: [_Presentation_](https://docs.google.com/presentation/d/17XVCbiC4PZYvpreZINmhNltmT-DDCo3LjoaPgqpsxVo/edit#slide=id.gef8c48fae9_0_0) [_Blog_](https://dnsmichi.at/2021/09/14/monitoring-kubernetes-with-prometheus-and-grafana-free-workshop/)
@@ -24,3 +35,19 @@ Core alerts
 Grafana 
 -----
 * slack webhooks https://www.bogotobogo.com/DevOps/Docker/Docker_Prometheus_Grafana.php
+
+Prometheus
+--------
+* primer on types https://sysdig.com/blog/prometheus-metrics/
+* by example https://codeburst.io/prometheus-by-example-4804ab86e741
+
+TEAM!
+-----
+* Building a high impact SRE team https://chronosphere.io/learn/building-a-high-impact-observability-team/
+
+
+Outgrowing prometheus
+------
+* https://chronosphere.io/platform/outgrowing-prometheus-monitoring/
+* Martin Mao on Observability, focusing on Alerting, Triage, & RCA https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIxNTc0MDQ1MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA4NjU4MzQyOQ?sa=X&ved=0CAIQuIEEahgKEwjAworb7fnzAhUAAAAAHQAAAAAQ8gE
+* Rob Skillington on Metrics Collection, Uber’s M3, and OpenMetrics https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIxNTc0MDQ1MC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvODQ2NDAyMzA3?sa=X&ved=0CAIQuIEEahgKEwjAworb7fnzAhUAAAAAHQAAAAAQ8gE
