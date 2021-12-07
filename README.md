@@ -19,3 +19,8 @@ Core Prometheus Exporters
 Core alerts
 ------
 * awesome cheatsheet https://awesome-prometheus-alerts.grep.to/
+
+
+Grafana 
+-----
+* slack webhooks https://www.bogotobogo.com/DevOps/Docker/Docker_Prometheus_Grafana.php
