@@ -20,6 +20,7 @@ Workshops
 ------
 * Samuel Berthe Walkthrough https://github.com/samber/workshop-prometheus-grafana
 * Presentation https://docs.google.com/presentation/d/1kRVMHKNg-UNoBFn3ttq12WgYvRvu6hCnX5ySr_FDNpg/edit?usp=sharing
+* EKS Workshop with Prometheus and Grafana https://www.eksworkshop.com/intermediate/240_monitoring/
 
 
 Core Prometheus Exporters
